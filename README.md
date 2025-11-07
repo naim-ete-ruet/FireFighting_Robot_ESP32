@@ -22,7 +22,7 @@ It can operate in both **automatic** and **manual (esp web server)** modes.
 | SG90 Servo | Controls water nozzle direction |
 | Flame Sensor (x3) | Fire detection sensors |
 | Water Pump | Fire extinguishing system |
-| Power Supply | 12V DC battery + LM7805 regulator |
+| Power Supply | 16V DC Source + LM7805 regulator |
 
 ---
 
