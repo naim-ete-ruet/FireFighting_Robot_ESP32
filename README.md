@@ -34,7 +34,7 @@ It can operate in both **automatic** and **manual (esp web server)** modes.
 ---
 
 ## 🧑🏻‍💻 Arduino Code 
-Used Arduino Code. 👉🏻👉🏻👉🏻 [Arduino Code File Link](main/Arduino_Code_FireFighting_Robot.ino)
+Used Arduino Code. 👉🏻👉🏻👉🏻 [Arduino Code File Link](Arduino_Code_FireFighting_Robot.ino)
 
 
 
