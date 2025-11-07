@@ -35,7 +35,8 @@ It can operate in both **automatic** and **manual (esp web server)** modes.
 
 ## 💾 Arduino Source Code
 
-👉 [Arduino_Code_Firefighting_Robot.ino](Code/Arduino_Code_Firefighting_Robot.ino)
+👉 👉 [Arduino_Code_Firefighting_Robot.ino](Arduino_Code_Firefighting_Robot.ino)
+
 
 
 ## 🖼️ Images
