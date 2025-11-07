@@ -51,7 +51,7 @@ Department of Electronics & Telecommunication Engineering
 Rajshahi University of Engineering & Technology (RUET)  
 Roll: 2204024  
 
-Supervisor: **Sharaf Tasnim**
+Supervisor: **Sharaf Tasnim** 
 Assistant Professor, 
-Department of Electronics & Telecommunication Engineering,
+Department of Electronics & Telecommunication Engineering, 
 Rajshahi University of Engineering & Technology.
