@@ -7,7 +7,7 @@ It can operate in both **automatic** and **manual (esp web server)** modes.
 
 ## 🧠 Features
 - Flame detection and automatic water spraying
-- Manual control using Blynk IoT app
+- Manual control using ESP Web Server
 - Dual-mode operation (Auto / Manual)
 - ESP32-based control with Wi-Fi connectivity
 - Real-time monitoring and control from mobile
