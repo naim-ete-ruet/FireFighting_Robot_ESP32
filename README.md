@@ -33,11 +33,6 @@ It can operate in both **automatic** and **manual (esp web server)** modes.
 
 ---
 
-## 🧑🏻‍💻 Arduino Code 
-Used Arduino Code. 👉🏻👉🏻👉🏻 [Arduino Code File Link](Firefighting_Robot_ESP32/Arduino_Code_FireFighting_Robot.ino)
-
-
-
 ## 🖼️ Images
 | Robot (side view) |  Robot (top view) | Block Diagram | PCB Design |
 
