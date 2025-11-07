@@ -41,7 +41,7 @@ It can operate in both **automatic** and **manual (esp web server)** modes.
 ---
 
 ## 🎥 Demo Video
-[▶️ Click to Watch](Video/demo_video.mp4)
+[▶️ Click to Watch](https://drive.google.com/drive/u/2/folders/1TN9OKKeRGokwCqi8l2oY7NJCtEAh-5kL)
 
 ---
 
