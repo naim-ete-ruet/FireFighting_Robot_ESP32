@@ -46,14 +46,21 @@ Here's the arduino code used on my project....
 | Robot (side view) |  Robot (top view) | Block Diagram | PCB Design |
 
 
-[Google Drive Link](https://drive.google.com/drive/folders/15Ec0_nx3Kp3sWRFOvH-LI58iv_LLkLim?usp=drive_link)
+🔗 [Google Drive Link] 🔗(https://drive.google.com/drive/folders/15Ec0_nx3Kp3sWRFOvH-LI58iv_LLkLim?usp=drive_link)
 ---
 
 ## 🎥 Demo Video
 Here's the Fire extinguishing Video
 
-[Google Drive Link](https://drive.google.com/file/d/1MDU4QzhQ1n8ENkLLvZUyEMAjLTauVenh/view?usp=drivesdk)
+🔗 [Google Drive Link] 🔗 (https://drive.google.com/file/d/1MDU4QzhQ1n8ENkLLvZUyEMAjLTauVenh/view?usp=drivesdk)
 ---
+
+
+## 📝 Project Report 
+Here's the project report
+🔗 [Google Drive Link] 🔗(https://drive.google.com/file/d/1tDBCkOsk8wPzaKkBmtqYph5WAFisCy8k/view?usp=drive_link)
+---
+
 
 ## 🧠 Author
 **Mohammad Naim**  
